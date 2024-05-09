@@ -1,0 +1,12 @@
+Shielden is a software protector used to safeguard your software. Shielden offers unique features against reverse engineering such as anti-tamper, application encryption, polymorphic code and memory integrity. Shielden's key feature is its obfuscation engine, which transforms low-level assembly code into obfuscated chunks, which can only be interpreted by Shielden's internal engine.
+
+[Price]
+
+1 Month = 10usd
+1 Year = 100usd
+
+[Support]
+
+Native exe/dll files (x86/x64)
+
+Discord : https://discord.gg/Kn3sdhsw5t
